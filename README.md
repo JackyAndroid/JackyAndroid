@@ -3,6 +3,6 @@
 推荐项目：
 <br />
 <br />
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JackyAndroid&repo=AndroidChromium)](https://github.com/JackyAndroid/AndroidChromium)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JackyAndroid&repo=AndroidTVLauncher)](https://github.com/JackyAndroid/AndroidTVLauncher)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JackyAndroid&repo=GreenBeanPods)](https://github.com/JackyAndroid/GreenBeanPods)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JackyAndroid&repo=AndroidChromium&theme=vue)](https://github.com/JackyAndroid/AndroidChromium)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JackyAndroid&repo=AndroidTVLauncher&theme=vue)](https://github.com/JackyAndroid/AndroidTVLauncher)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JackyAndroid&repo=GreenBeanPods&theme=vue)](https://github.com/JackyAndroid/GreenBeanPods)
