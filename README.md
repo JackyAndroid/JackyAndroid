@@ -2,8 +2,12 @@
 
 [![Jacky's github stats](https://github-readme-stats.vercel.app/api?username=JackyAndroid&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Recommend repo:
-<br />
+Hi, I'm Jacky, a a code lover from China.
+
+- 🌱 I’m research in areas such as Android/Linux/Kotlin
+- 💬 WeChat: sunglasses_cat
+
+**Recommend repo:**
 <br />
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JackyAndroid&repo=AndroidChromium&theme=vue)](https://github.com/JackyAndroid/AndroidChromium)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JackyAndroid&repo=AndroidTVLauncher&theme=vue)](https://github.com/JackyAndroid/AndroidTVLauncher)
