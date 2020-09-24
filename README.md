@@ -6,9 +6,3 @@ Hi, I'm Jacky, a code lover from China.
 
 - 🌱 I’m research in areas such as Android/Linux/Kotlin
 - 💬 WeChat: sunglasses_cat
-
-**Recommend repo:**
-<br />
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JackyAndroid&repo=AndroidChromium&theme=vue)](https://github.com/JackyAndroid/AndroidChromium)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JackyAndroid&repo=AndroidTVLauncher&theme=vue)](https://github.com/JackyAndroid/AndroidTVLauncher)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JackyAndroid&repo=GreenBeanPods&theme=vue)](https://github.com/JackyAndroid/GreenBeanPods)
