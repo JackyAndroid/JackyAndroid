@@ -5,4 +5,4 @@
 Hi, I'm Jacky, a code lover from China Shenzhen.
 
 - 🌱 I’m research in areas such as Android/Linux/Kotlin
-- 💬 WeChat: sunglasses_cat
+- 💬 WeChat: JackyWang0222
